@@ -1,0 +1,264 @@
+﻿$axure.loadCurrentPage({
+  "url":"上传图片.html",
+  "generationDate":new Date(1470576994228.08),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"258c3e182fc74da1b373d72c688bf426",
+    "type":"Axure:Page",
+    "name":"上传图片",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"90ca0e582110459f8da2a2462d59c2c5",
+          "label":"详细板块",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "fill":{
+              "fillType":"solid",
+              "color":0x7F000000},
+            "location":{
+              "x":10,
+              "y":-10},
+            "size":{
+              "width":480,
+              "height":600},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ed0c25f8920c43a6a15b00d2d70a570a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x7F000000},
+                "location":{
+                  "x":10,
+                  "y":-10},
+                "size":{
+                  "width":480,
+                  "height":600},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分享页/详细板块_u0.png"}},
+{
+          "id":"687a6b8ad8ad44d883dc5c31fc09bb60",
+          "label":"详细板块",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "location":{
+              "x":10,
+              "y":430},
+            "size":{
+              "width":480,
+              "height":100},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9ee89fe6b5534f479b996613e9fa2a87",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "location":{
+                  "x":10,
+                  "y":430},
+                "size":{
+                  "width":480,
+                  "height":100},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/手机外观效果/u353.png"}},
+{
+          "id":"776349be29144778bd635364b85012e2",
+          "label":"详细板块",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "location":{
+              "x":10,
+              "y":540},
+            "size":{
+              "width":480,
+              "height":50},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f659f0ec643d4e17b6c5b9f9f9b534ca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "location":{
+                  "x":10,
+                  "y":540},
+                "size":{
+                  "width":480,
+                  "height":50},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/手机外观效果/u50.png"}},
+{
+          "id":"f59f4086a2aa4794aa63a79dad1f3535",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "lineSpacing":"50px",
+            "location":{
+              "x":20,
+              "y":430},
+            "size":{
+              "width":460,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"08fae77e3aa648b9842ff6b33db44b99",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "lineSpacing":"50px",
+                "location":{
+                  "x":20,
+                  "y":430},
+                "size":{
+                  "width":460,
+                  "height":100}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"99d61c4d4ec94d46a48be097b746dbb8",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":475},
+            "size":{
+              "width":480,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/手机外观效果/u420_line.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "90ca0e582110459f8da2a2462d59c2c5":{
+      "scriptId":"u0"},
+    "ed0c25f8920c43a6a15b00d2d70a570a":{
+      "scriptId":"u1"},
+    "687a6b8ad8ad44d883dc5c31fc09bb60":{
+      "scriptId":"u2"},
+    "9ee89fe6b5534f479b996613e9fa2a87":{
+      "scriptId":"u3"},
+    "776349be29144778bd635364b85012e2":{
+      "scriptId":"u4"},
+    "f659f0ec643d4e17b6c5b9f9f9b534ca":{
+      "scriptId":"u5"},
+    "f59f4086a2aa4794aa63a79dad1f3535":{
+      "scriptId":"u6"},
+    "08fae77e3aa648b9842ff6b33db44b99":{
+      "scriptId":"u7"},
+    "99d61c4d4ec94d46a48be097b746dbb8":{
+      "scriptId":"u8"}}});
